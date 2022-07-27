@@ -15,7 +15,11 @@
 --![image](https://user-images.githubusercontent.com/45406197/181279269-2148385f-99b0-41a7-834d-2ce74bf6e941.png)
 
 7 вставьте строку со значением c1=1
+--![image](https://user-images.githubusercontent.com/45406197/181280157-5e3bc201-659a-48c5-92d7-b86fe0e0cf8c.png)
+
 8 создайте новую роль readonly
+--![image](https://user-images.githubusercontent.com/45406197/181280443-9d79f768-2c0f-4acc-9194-f6065c9ff4ef.png)
+
 9 дайте новой роли право на подключение к базе данных testdb
 10 дайте новой роли право на использование схемы testnm
 11 дайте новой роли право на select для всех таблиц схемы testnm
