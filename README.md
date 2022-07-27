@@ -1,5 +1,7 @@
 1 создайте новый кластер PostgresSQL 13 (на выбор - GCE, CloudSQL)
 2 зайдите в созданный кластер под пользователем postgres
+--![image](https://user-images.githubusercontent.com/45406197/181273907-318c66be-48ad-4112-b4ae-129a2df06c40.png)
+
 3 создайте новую базу данных testdb
 4 зайдите в созданную базу данных под пользователем postgres
 5 создайте новую схему testnm
