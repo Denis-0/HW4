@@ -9,6 +9,8 @@
 --![image](https://user-images.githubusercontent.com/45406197/181276164-d9243506-6e69-4099-bc55-8372e42a3216.png)
 
 5 создайте новую схему testnm
+--![image](https://user-images.githubusercontent.com/45406197/181277743-0c06f919-5f03-46ec-9cd6-c82c330b9577.png)
+
 6 создайте новую таблицу t1 с одной колонкой c1 типа integer
 7 вставьте строку со значением c1=1
 8 создайте новую роль readonly
