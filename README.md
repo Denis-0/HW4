@@ -24,6 +24,8 @@
 --![image](https://user-images.githubusercontent.com/45406197/181312565-daf1aed7-f1fe-46fe-aa70-810a6524949f.png)
 
 10 дайте новой роли право на использование схемы testnm
+--![image](https://user-images.githubusercontent.com/45406197/181312734-07ed9ab3-27c5-48bd-800d-4d75ad84cea0.png)
+
 11 дайте новой роли право на select для всех таблиц схемы testnm
 12 создайте пользователя testread с паролем test123
 13 дайте роль readonly пользователю testread
