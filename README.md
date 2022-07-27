@@ -12,6 +12,8 @@
 --![image](https://user-images.githubusercontent.com/45406197/181277743-0c06f919-5f03-46ec-9cd6-c82c330b9577.png)
 
 6 создайте новую таблицу t1 с одной колонкой c1 типа integer
+--![image](https://user-images.githubusercontent.com/45406197/181279269-2148385f-99b0-41a7-834d-2ce74bf6e941.png)
+
 7 вставьте строку со значением c1=1
 8 создайте новую роль readonly
 9 дайте новой роли право на подключение к базе данных testdb
