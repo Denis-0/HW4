@@ -6,6 +6,8 @@
 --![image](https://user-images.githubusercontent.com/45406197/181275059-2fda4114-7858-4e4b-a28d-2e4133c620c2.png)
 
 4 зайдите в созданную базу данных под пользователем postgres
+--![image](https://user-images.githubusercontent.com/45406197/181276164-d9243506-6e69-4099-bc55-8372e42a3216.png)
+
 5 создайте новую схему testnm
 6 создайте новую таблицу t1 с одной колонкой c1 типа integer
 7 вставьте строку со значением c1=1
