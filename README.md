@@ -27,6 +27,8 @@
 --![image](https://user-images.githubusercontent.com/45406197/181312734-07ed9ab3-27c5-48bd-800d-4d75ad84cea0.png)
 
 11 дайте новой роли право на select для всех таблиц схемы testnm
+--![image](https://user-images.githubusercontent.com/45406197/181312930-68f9501a-7e91-4396-b3d0-87c8b2d87cb2.png)
+
 12 создайте пользователя testread с паролем test123
 13 дайте роль readonly пользователю testread
 14 зайдите под пользователем testread в базу данных testdb
