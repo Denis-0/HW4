@@ -30,6 +30,8 @@
 --![image](https://user-images.githubusercontent.com/45406197/181312930-68f9501a-7e91-4396-b3d0-87c8b2d87cb2.png)
 
 12 создайте пользователя testread с паролем test123
+--![image](https://user-images.githubusercontent.com/45406197/181313062-8f21db2b-43a7-4973-89ac-f0ea73912bce.png)
+
 13 дайте роль readonly пользователю testread
 14 зайдите под пользователем testread в базу данных testdb
 15 сделайте select * from t1;
