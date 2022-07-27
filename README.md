@@ -71,6 +71,7 @@
 32 получилось?
 33 ура!
 34 теперь попробуйте выполнить команду create table t2(c1 integer); insert into t2 values (2);
+--![image](https://user-images.githubusercontent.com/45406197/181343975-60dc8c89-5055-44b4-8bfa-246dadc2c4f6.png)
 
 35 а как так? нам же никто прав на создание таблиц и insert в них под ролью readonly?
 36 есть идеи как убрать эти права? если нет - смотрите шпаргалку
