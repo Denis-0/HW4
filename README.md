@@ -33,6 +33,8 @@
 --![image](https://user-images.githubusercontent.com/45406197/181313062-8f21db2b-43a7-4973-89ac-f0ea73912bce.png)
 
 13 дайте роль readonly пользователю testread
+--![image](https://user-images.githubusercontent.com/45406197/181313530-63e287fa-0f31-4888-97ac-cafe4185bdb2.png)
+
 14 зайдите под пользователем testread в базу данных testdb
 15 сделайте select * from t1;
 16 получилось? (могло если вы делали сами не по шпаргалке и не упустили один существенный момент про который позже)
